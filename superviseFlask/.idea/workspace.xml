@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5d5343e-9eda-4088-98fe-8a5e483b9a92" name="Default" comment="简化">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supervise/controller/commonApi.py" beforeDir="false" afterPath="$PROJECT_DIR$/supervise/controller/commonApi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supervise/controller/jobView.py" beforeDir="false" afterPath="$PROJECT_DIR$/supervise/controller/jobView.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supervise/controller/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/supervise/controller/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supervise/templates" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/web/static/admin/fonts/iconfont.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/static/admin/fonts/iconfont.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/admin/fonts/iconfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/web/static/admin/fonts/iconfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/templates/index/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/templates/index/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>render_template</find>
+      <find>TbReportRepayOrder</find>
+      <find>_user_callback</find>
+      <find>callback</find>
+      <find>util.</find>
+      <find>TbReportLoanInfo</find>
+      <find>TbReportLoanPlan</find>
+      <find>tb_report_loan_plan</find>
+      <find>provinceReload</find>
+      <find>actualMoney</find>
+      <find>event</find>
+      <find>laypage</find>
+      <find>modif</find>
+      <find>reschedule_job</find>
+      <find>misfire_grace_time</find>
+      <find>reset</find>
+      <find>TbAcctMthly</find>
+      <find>web</find>
+    </findStrings>
+    <dirStrings>
+      <dir>E:\业务\循环贷\testfile\testfile\test_01\superviseFlask</dir>
+    </dirStrings>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="972a3d7e-b47e-4429-93d9-be3a21a10585" />
+  <component name="ProjectId" id="1h2cUdd70KXEb2Fc5ae6wBAZoXx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\业务\循环贷\testfile\testfile\test_01\superviseFlask\conf" />
+      <recent name="E:\业务\循环贷\testfile\testfile\test_01\superviseFlask\supervise\service" />
+      <recent name="E:\业务\循环贷\svn文件\superviseFlask\supervise\static\admin\js" />
+      <recent name="E:\业务\循环贷\svn文件\superviseFlask\supervise\static\admin\images" />
+      <recent name="E:\业务\循环贷\svn文件\superviseFlask\supervise\static\admin\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\业务\循环贷\testfile\testfile\test_01\superviseFlask\web" />
+      <recent name="E:\业务\循环贷\testfile\testfile\test_01\superviseFlask\test" />
+      <recent name="E:\业务\循环贷\testfile\testfile\test_01\superviseFlask\conf" />
+      <recent name="E:\业务\循环贷\testfile\testfile\test_01\conf" />
+      <recent name="E:\业务\循环贷\testfile\testfile\test_01\superviseFlask\" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="TbReportLoanInfoView" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="superviseFlask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/supervise/service" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/supervise/service/TbReportLoanInfoView.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generateOrm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="superviseFlask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/conf" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/conf/generateOrm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="readtxt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="superviseFlask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/20200609/renhangbaowen/screenOut" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/20200609/renhangbaowen/screenOut/readtxt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="superviseFlask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testJob" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="superviseFlask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/supervise/job" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/supervise/job/testJob.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.TbReportLoanInfoView" />
+      <item itemvalue="Python.generateOrm" />
+      <item itemvalue="Python.readtxt" />
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.testJob" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.testJob" />
+        <item itemvalue="Python.TbReportLoanInfoView" />
+        <item itemvalue="Python.readtxt" />
+        <item itemvalue="Python.generateOrm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\admin\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+    <option name="sshConnectionType" value="PASSWORD" />
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\业务\循环贷\testfile\testfile\test_01\superviseFlask" />
+          <option name="myCopyRoot" value="E:\业务\循环贷\testfile\testfile\test_01\superviseFlask" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\业务\循环贷\testfile\testfile\test_01\superviseFlask" />
+          <option name="myCopyRoot" value="E:\业务\循环贷\testfile\testfile\test_01\superviseFlask" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5d5343e-9eda-4088-98fe-8a5e483b9a92" name="Default" comment="" />
+      <created>1593421635555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593421635555</updated>
+      <workItem from="1599212668576" duration="358000" />
+      <workItem from="1599216451498" duration="1500000" />
+      <workItem from="1599442447845" duration="70000" />
+      <workItem from="1599478061431" duration="1264000" />
+    </task>
+    <task id="LOCAL-00001" summary="项目架构改动">
+      <created>1593506359137</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593506359137</updated>
+    </task>
+    <task id="LOCAL-00002" summary="项目架构改动">
+      <created>1593506996414</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593506996414</updated>
+    </task>
+    <task id="LOCAL-00003" summary="项目架构改动">
+      <created>1593517987507</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593517987507</updated>
+    </task>
+    <task id="LOCAL-00004" summary="解决session过期，登录界面镶嵌到iframe里面的问题">
+      <created>1593581279301</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593581279301</updated>
+    </task>
+    <task id="LOCAL-00005" summary="增加月度信息查询">
+      <created>1593744692610</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1593744692610</updated>
+    </task>
+    <task id="LOCAL-00006" summary="添加flask_scheduler和二代生成报文定时任务">
+      <created>1594017501843</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1594017501843</updated>
+    </task>
+    <task id="LOCAL-00007" summary="原始表table格式修改">
+      <created>1594713141688</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1594713141688</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="项目架构改动" />
+    <MESSAGE value="解决session过期，登录界面镶嵌到iframe里面的问题" />
+    <MESSAGE value="增加月度信息查询" />
+    <MESSAGE value="添加flask_scheduler和二代生成报文定时任务" />
+    <MESSAGE value="原始表table格式修改" />
+    <MESSAGE value="简化" />
+    <option name="LAST_COMMIT_MESSAGE" value="简化" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1886" y="104" key="CommitChangelistDialog2" timestamp="1599479313443">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1886" y="104" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599479313443" />
+    <state x="1772" y="210" key="DiffContextDialog" timestamp="1599478339866">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1772" y="210" key="DiffContextDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599478339866" />
+    <state width="1877" height="234" key="GridCell.Tab.0.bottom" timestamp="1599217933987">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="234" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599217933987" />
+    <state width="1877" height="234" key="GridCell.Tab.0.center" timestamp="1599217933987">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="234" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599217933987" />
+    <state width="1877" height="234" key="GridCell.Tab.0.left" timestamp="1599217933986">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="234" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599217933986" />
+    <state width="1877" height="234" key="GridCell.Tab.0.right" timestamp="1599217933987">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="234" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599217933987" />
+    <state x="1827" y="164" key="SettingsEditor" timestamp="1599478429060">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1827" y="164" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599478429060" />
+    <state x="2142" y="421" key="svn.sslCredentialsDialog" timestamp="1599478404912">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2142" y="421" key="svn.sslCredentialsDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599478404912" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/superviseFlask$run.coverage" NAME="run Coverage Results" MODIFIED="1599216950820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
